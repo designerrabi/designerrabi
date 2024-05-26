@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" width="100%" src="https://i.ibb.co/6Z2MCHs/rabi.png"  />
+  <img height="100%" width="100%" src="https://i.ibb.co/6Z2MCHs/rabi.png"  />
 </div>
 
 
