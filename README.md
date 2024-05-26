@@ -1,5 +1,5 @@
 
-  <img src="https://i.ibb.co/6Z2MCHs/rabi.png" />
+<img src="https://raw.githubusercontent.com/designerrabi/designerrabi/master/rabi.png" alt="banner that says Developer rabi">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Rabiul Islam
 =======================================================================================================================================
